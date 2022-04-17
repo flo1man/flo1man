@@ -41,4 +41,4 @@
 
 <br/>
 <h2 align="center""> 📈 My GitHub Stats : </h2>  
-<p><img style src="https://github-readme-stats.vercel.app/api?username=flo1man&show_icons=true&count_private=true&hide_border=true" align="left" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=flo1man&show_icons=true&locale=en&layout=compact&hide_border=true" alt="flo1man" /</p>
+<p><img style="width: 470px" src="https://github-readme-stats.vercel.app/api?username=flo1man&show_icons=true&count_private=true&hide_border=true" align="left" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=flo1man&show_icons=true&locale=en&layout=compact&hide_border=true" alt="flo1man" /</p>
