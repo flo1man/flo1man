@@ -40,9 +40,8 @@
 </div>
 
 <br/>
-<h2 align="center"> 📈 My GitHub Stats : </h1>  
-<img src="https://github-readme-stats.vercel.app/api?username=flo1man&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flo1man&hide_border=true&layout=compact" align="right" /></div>  
+<h2 align="center"> 📈 My GitHub Stats : </h2>  
+<img src="https://github-readme-stats.vercel.app/api?username=flo1man&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 <br/>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flo1man&show_icons=true&locale=en&layout=compact" alt="flo1man" /></p> 
