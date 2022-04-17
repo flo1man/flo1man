@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 460px;height: 230px" />
-</div>  
-
 <h2 align="center">Hi there 👋, I'm Stivan! <br/> Dedicated student, develop-oriented in the .NET world</h1> 
 
 
